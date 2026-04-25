@@ -78,7 +78,7 @@ print x
 
 ```
 
-g++ src/main.cpp -o compiler
+g++ src/*.cpp -o compiler
 
 ```
 
